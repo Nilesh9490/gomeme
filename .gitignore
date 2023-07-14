@@ -1,0 +1,7 @@
+*.terraform
+terraform.*
+.terraform.*
+ssh_key
+ssh_key.pub
+callahan-ssh_key
+callahan-ssh_key.pub
